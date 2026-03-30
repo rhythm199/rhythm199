@@ -82,9 +82,8 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 
 ## 📖 Currently Learning
 
+- **Agentic AI & LLM integration** — building AI-powered workflows, tool-calling agents, and prompt engineering patterns for real products
 - **Node.js & backend fundamentals** to better own full-stack integrations end-to-end
-- **Advanced CI/CD pipelines** with GitHub Actions and Docker for frontend deployments
-- **Web performance engineering** — Core Web Vitals, bundle analysis, and rendering strategies
 
 ---
 
