@@ -6,7 +6,7 @@
 *I build frontend systems that scale — and fix the ones that shouldn't have broken.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhythmshukla678@gmail.com)
 
 </div>
 
@@ -107,22 +107,11 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Connect With Me
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/rhythmshukla678@gmail.com]((https://www.linkedin.com/in/rhythmshukla678@gmail.com)) |
+| 💼 LinkedIn | [linkedin.com/in/rhythm-shukla-938090174](https://www.linkedin.com/in/rhythm-shukla-938090174) |
 | 📧 Email | [rhythmshukla678@gmail.com](mailto:rhythmshukla678@gmail.com) |
 | 🐙 GitHub | [github.com/rhythm199](https://github.com/rhythm199) |
 
