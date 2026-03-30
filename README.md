@@ -106,6 +106,17 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 - Improving CI/CD reliability and reducing dev environment friction
 
 ---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhythm199&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythm199&layout=compact&theme=github_dark&hide_border=true)
+ 
+</div>
+ 
+---
 
 ## 📬 Connect With Me
 
