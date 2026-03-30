@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hi, I'm Rhythm 👋
-### Frontend Developer · React & TypeScript · Micro-Frontend Architect
+### Frontend Developer · React, Redux, Javascript, TypeScript · Micro-Frontend Architect
 
 *I build frontend systems that scale — and fix the ones that shouldn't have broken.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
@@ -15,7 +14,7 @@
 
 ## About Me
 
-4.5 years building React + TypeScript applications — from greenfield systems to stabilizing legacy architectures no one else wanted to touch.
+4.5 years building React, Redux, Javascript, TypeScript applications — from greenfield systems to stabilizing legacy architectures no one else wanted to touch.
 
 I specialize in **micro-frontend environments**, **large-scale migrations**, and **state management at scale**. My work sits at the intersection of product thinking and engineering discipline: I care about code that performs, components that are reusable, and systems that the next developer can actually extend without breaking things.
 
@@ -123,9 +122,9 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/rhythm-shukla-938090174)) |
-| 📧 Email | [youremail@gmail.com](mailto:rhythmshukla678@gmail.com) |
-| 🐙 GitHub | [github.com/yourusername](https://github.com/rhythm199) |
+| 💼 LinkedIn | [linkedin.com/in/rhythmshukla678@gmail.com]((https://www.linkedin.com/in/rhythmshukla678@gmail.com)) |
+| 📧 Email | [rhythmshukla678@gmail.com](mailto:rhythmshukla678@gmail.com) |
+| 🐙 GitHub | [github.com/rhythm199](https://github.com/rhythm199) |
 
 ---
 
