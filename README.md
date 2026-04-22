@@ -20,10 +20,8 @@ I specialize in **micro-frontend environments**, **large-scale migrations**, and
 
 Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-module architectures need a structured fix — not a patch.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm199)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm199&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rhythm199&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhythm199&show_icons=true&theme=react)
 
 ---
 
@@ -52,6 +50,14 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**DSA & Coding Patterns**
+
+## 🧠 Skills
+
+**Advanced**: Dynamic Programming · Divide & Conquer · Backtracking · Monotonic Stack · Trie · Union Find · Rolling Hash  
+**Intermediate**: Math · Hash Table · Binary Search · Bit Manipulation · Sliding Window · Greedy · Recursion · Database  
+**Fundamental**: Arrays · Strings · Two Pointers · Sorting · Simulation · Stack · Linked List · Matrix
 
 ---
 
