@@ -59,6 +59,7 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
 ⚡**Performance**
+
 ![Code Splitting](https://img.shields.io/badge/Code_Splitting-FF6F00?style=flat-square)
 ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-4CAF50?style=flat-square)
 ![Memoization](https://img.shields.io/badge/Memoization-9C27B0?style=flat-square)
@@ -70,11 +71,13 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
 ♿ **Accessibility**
+
 ![WCAG 2.1](https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square)
 ![ARIA](https://img.shields.io/badge/ARIA-FF9800?style=flat-square)
 ![Accessibility](https://img.shields.io/badge/a11y-Accessibility-green?style=flat-square)
 
 🏗**Architecture**
+
 ![Micro-Frontend](https://img.shields.io/badge/Micro--Frontend-FF5722?style=flat-square)
 ![Module Federation](https://img.shields.io/badge/Module_Federation-000000?style=flat-square)
 ![Scalable Architecture](https://img.shields.io/badge/Scalable_Architecture-607D8B?style=flat-square)
@@ -87,8 +90,6 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **DSA & Coding Patterns**
-
-## 🧠 Skills
 
 **Advanced**: Dynamic Programming · Divide & Conquer · Backtracking · Monotonic Stack · Trie · Union Find · Rolling Hash  
 **Intermediate**: Math · Hash Table · Binary Search · Bit Manipulation · Sliding Window · Greedy · Recursion · Database  
