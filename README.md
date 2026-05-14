@@ -158,9 +158,7 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/rhythm-shukla-938090174](https://www.linkedin.com/in/rhythm-shukla-938090174) |
 | 📧 Email | [rhythmshukla678@gmail.com](mailto:rhythmshukla678@gmail.com) |
-| 🐙 GitHub | [github.com/rhythm199](https://github.com/rhythm199) |
 
 ---
 
