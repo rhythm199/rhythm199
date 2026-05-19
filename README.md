@@ -22,7 +22,7 @@ I specialize in **micro-frontend environments**, **large-scale migrations**, and
 Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-module architectures need a structured fix — not a patch.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm199&theme=react-dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=rhythm199&theme=react)  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Penguin"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=rhythm199&theme=react)  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding Penguin"/>
 
 ---
 
