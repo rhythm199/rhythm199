@@ -23,6 +23,9 @@ Teams bring me in when upgrades are blocked, dependencies are tangled, or multi-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm199&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rhythm199&theme=react)
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding Penguin"/>
+</p>
 
 ---
 
