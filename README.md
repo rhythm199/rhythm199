@@ -15,7 +15,7 @@
 
 ## About Me
 
-4.7 years building React, Redux, Javascript, TypeScript applications — from greenfield systems to stabilizing legacy architectures no one else wanted to touch.
+5 years building React, Redux, Javascript, TypeScript applications — from greenfield systems to stabilizing legacy architectures no one else wanted to touch.
 
 I specialize in **micro-frontend environments**, **large-scale migrations**, and **state management at scale**. My work sits at the intersection of product thinking and engineering discipline: I care about code that performs, components that are reusable, and systems that the next developer can actually extend without breaking things.
 
