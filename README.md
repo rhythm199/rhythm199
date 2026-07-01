@@ -5,7 +5,7 @@
 
 *I build frontend systems that scale — and fix the ones that shouldn't have broken.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythm-shukla-938090174)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhythm199/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhythmshukla678@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rhythm-shukla.netlify.app/)
 
